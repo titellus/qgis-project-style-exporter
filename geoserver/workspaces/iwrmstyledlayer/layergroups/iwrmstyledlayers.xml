@@ -1,0 +1,146 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--7d8338e5:1628f6f25e9:-7fa2</id>
+  <name>iwrmstyledlayers</name>
+  <mode>SINGLE</mode>
+  <title>iwrmstyledlayers</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--7d8338e5:1628f6f25e9:-7ff3</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--AD-city</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--ENV-elevation_contour</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--GW-hydrogeological_unit</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--INFR-dam_line</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--INFR-hydro_power_station</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--INFR-hydro_power_station_large</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--INFR-hydro_power_station_small</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--INFR-pumping_station</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--MO-groundwater_station</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--MO-hydrological_station</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--MO-hydrological_station_auto</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--MO-meteorological_station</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--MO-precipitation_station</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--MO-tide_station</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--MO-water_level_station</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--MO-water_level_station_auto</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--SW-basin_boundary</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--SW-basin_boundary</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--SW-lake</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--SW-river_line</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--SW-source</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--AD-city</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--ENV-elevation_contour</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--GW-hydrogeological_unit</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--INFR-dam_line</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--INFR-hydro_power_station</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--INFR-hydro_power_station_large</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--INFR-hydro_power_station_small</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--INFR-pumping_station</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--MO-groundwater_station</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--MO-hydrological_station</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--MO-hydrological_station_auto</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--MO-meteorological_station</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--MO-precipitation_station</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--MO-tide_station</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--MO-water_level_station</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--MO-water_level_station_auto</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--SW-basin_boundary</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--SW-basin_boundary</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--SW-lake</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--SW-river_line</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--SW-source</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-82.47284044546662</minx>
+    <maxx>-82.07999719029031</maxx>
+    <miny>22.90907962744465</miny>
+    <maxy>23.14681623369057</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>
